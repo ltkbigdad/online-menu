@@ -1,4 +1,5 @@
 # online-menu
 
-lib:
+libs:
+
 TailwindCSS - npm install -D tailwindcss
